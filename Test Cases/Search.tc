@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mencari product yang ada dan tidak ada dalam database</description>
+   <name>Search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8333fb0-6d1d-40b8-b887-3415c37111f9</testCaseGuid>
+</TestCaseEntity>
