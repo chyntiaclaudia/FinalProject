@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description>Test Case dari LoginValid dan LoginInvalid</description>
-   <name>Login</name>
+   <name>Account</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -11,6 +11,13 @@
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>159e62a1-7348-4ad1-9d63-1e4f0ed64873</testSuiteGuid>
+   <testCaseLink>
+      <guid>590167da-40d0-45d6-ac16-609706c0d1b1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registrasi</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
    <testCaseLink>
       <guid>c55e2894-423d-4119-8c62-e0bea592cbcc</guid>
       <isReuseDriver>false</isReuseDriver>
