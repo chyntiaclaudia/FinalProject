@@ -48,22 +48,21 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Search/Page_Advantage S
 
 WebUI.click(findTestObject('Object Repository/Search/Page_Advantage Shopping/button_SIGN IN'))
 
-// Produk yang akan dicari
-def products = ['laptop', 'laptop asus', 'headset']
+def searchTerm = ['laptop', 'laptop asus', 'headset']
 
-// Looping untuk mencari setiap produk
-for (product in products) {
-    // Klik ikon search
-    WebUI.click(findTestObject('Object Repository/Search/Page_Advantage Shopping/svg_DEMO_menuSearch'))
-    
-    // Mengisi input search dengan produk
-    WebUI.setText(findTestObject('Object Repository/Search/Page_Advantage Shopping/input_DEMO_mobile_search'), product)
-    
-    // Menekan tombol enter untuk melakukan pencarian
-    WebUI.sendKeys(findTestObject('Object Repository/Search/Page_Advantage Shopping/input_DEMO_mobile_search'), Keys.chord(Keys.ENTER))
-    
-    // Menunggu beberapa saat untuk hasil pencarian muncul
-    WebUI.delay(3)
+// Lakukan pencarian berdasarkan kata kunci yang berbeda
+for (int i = 0; i < searchTerm.size(); i++) {
+	if (searchTerm[i] == 'laptop' || searchTerm[i] == 'laptop asus' || searchTerm[i] == 'headset') {
+		// Jika kata kunci dikenali, isi bidang pencarian dan kirim tombol Enter
+		WebUI.setText(findTestObject('Object Repository/Search/Page_Advantage Shopping/input_DEMO_mobile_search'), searchTerm[i])
+		WebUI.sendKeys(findTestObject('Object Repository/Search/Page_Advantage Shopping/input_DEMO_mobile_search'), Keys.chord(Keys.ENTER))
+	} else {
+		// Jika kata kunci tidak dikenali, cetak pesan kesalahan
+		println('No results for ' + searchTerm[i])
+	}
+
+	// Tunggu beberapa saat sebelum melanjutkan ke kata kunci pencarian berikutnya
+	WebUI.delay(2)
 }
 
 WebUI.closeBrowser()
