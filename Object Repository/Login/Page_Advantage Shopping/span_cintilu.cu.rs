@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_cintilu.cu</name>
+   <tag></tag>
+   <elementGuidId>6c17df24-aa0c-4c1b-80f7-2e1d6b3bb9a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menuUserLink']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.hi-user.containMiniTitle.ng-binding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c86253b2-d6bb-43ef-a3cd-981f2885b8ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-show</name>
+      <type>Main</type>
+      <value>userCookie.response</value>
+      <webElementGuid>66d0cc96-955e-484d-9e5f-b8cadb10f199</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hi-user containMiniTitle ng-binding</value>
+      <webElementGuid>472508a4-5c02-485c-bc3e-404a72553cfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>cintilu.cu</value>
+      <webElementGuid>3b87f354-7ed7-474f-9f3d-d86359436fee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menuUserLink&quot;)/span[@class=&quot;hi-user containMiniTitle ng-binding&quot;]</value>
+      <webElementGuid>883efac3-a7f4-4b98-a5f3-574a70c0a2fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='menuUserLink']/span</value>
+      <webElementGuid>10aa3f54-1426-4047-b41a-8cffcd0d5ac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$1,279.00'])[2]/following::span[1]</value>
+      <webElementGuid>4efc499c-4743-4cfe-8189-63cc94da3a96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My account'])[2]/preceding::span[1]</value>
+      <webElementGuid>f2b3e111-5ea1-46c3-a028-063d7d69fd37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My orders'])[2]/preceding::span[1]</value>
+      <webElementGuid>b5cedbc4-0ed1-469a-839d-d1168c029d9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[3]/a/span</value>
+      <webElementGuid>f4b3ab0a-2ff9-4fa3-a9dd-a63284ac2cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'cintilu.cu' or . = 'cintilu.cu')]</value>
+      <webElementGuid>67c6fb6f-7d3e-42f3-bed5-63c8a2263566</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
