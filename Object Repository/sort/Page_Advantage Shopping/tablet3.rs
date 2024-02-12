@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tablet3</name>
+   <tag></tag>
+   <elementGuidId>bd40a2f1-711c-4826-9632-3e893e8265ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mobileSlide']/ul/li[3]/div/div[3]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c4db4919-acc7-4d60-8b43-36bf7448d20e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>processor_2</value>
+      <webElementGuid>71329cb4-78fd-42b8-9e86-04852729216f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roboto-regular ng-binding</value>
+      <webElementGuid>c472b058-c748-4179-b57f-e8ea962c7864</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-click</name>
+      <type>Main</type>
+      <value>item.selected = !item.selected; includeProducts(attrVal, attrib.name)</value>
+      <webElementGuid>65c81894-8f36-4fbf-9521-fb6922a089ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Intel® Core™ M-5Y71 with Intel HD Graphics 5300 (1.2 GHz, up to 2.9 GHz with Intel Turbo Boost Technology, 4 MB cache, 2 cores)</value>
+      <webElementGuid>18c59085-0838-4675-8e12-ed8dcd8ec5bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mobileSlide&quot;)/ul[1]/li[@class=&quot;ng-scope&quot;]/div[@class=&quot;option&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;fill iconCss&quot;]/label[@class=&quot;roboto-regular ng-binding&quot;]</value>
+      <webElementGuid>f75ce4c1-43a1-4d37-b128-81c63c132d7e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mobileSlide']/ul/li[3]/div/div[3]/div/label</value>
+      <webElementGuid>ed583060-1293-41b7-86e8-4f38e2d8b45f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Intel® Atom® Z3795 (1.6 GHz, up to 2.39 GHz using Intel Burst Technology, 2 MB cache, 4 cores)'])[1]/following::label[2]</value>
+      <webElementGuid>c7e56846-7910-475d-9a0f-8aed68dbd16d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROCESSOR'])[1]/following::label[3]</value>
+      <webElementGuid>43a6a620-8d14-4237-aa89-2f8c9bf7f1b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COLOR'])[1]/preceding::label[1]</value>
+      <webElementGuid>9fadfce6-83da-474e-a904-9e31fb219b4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOLD OUT'])[1]/preceding::label[1]</value>
+      <webElementGuid>9c80b111-5461-4612-b8d8-88f93981354f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Intel® Core™ M-5Y71 with Intel HD Graphics 5300 (1.2 GHz, up to 2.9 GHz with Intel Turbo Boost Technology, 4 MB cache, 2 cores)']/parent::*</value>
+      <webElementGuid>a0eb6759-1d52-443b-a726-167f9fbbf17f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div[3]/div/label</value>
+      <webElementGuid>7dff2289-2aeb-4d1d-b82c-23a016ee5ae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Intel® Core™ M-5Y71 with Intel HD Graphics 5300 (1.2 GHz, up to 2.9 GHz with Intel Turbo Boost Technology, 4 MB cache, 2 cores)' or . = 'Intel® Core™ M-5Y71 with Intel HD Graphics 5300 (1.2 GHz, up to 2.9 GHz with Intel Turbo Boost Technology, 4 MB cache, 2 cores)')]</value>
+      <webElementGuid>bc51d2c8-18d6-4d30-829c-6ee7d1e18db8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

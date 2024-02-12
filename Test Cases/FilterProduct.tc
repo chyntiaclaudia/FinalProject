@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FilterProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f88b983-7594-4cfb-8cb5-dddc54bc8b97</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>efbf3872-1fd7-40f2-abb7-99c1d9f6bc60</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Z3795'</defaultValue>
+      <description></description>
+      <id>efbf3872-1fd7-40f2-abb7-99c1d9f6bc60</id>
+      <masked>false</masked>
+      <name>processor</name>
+   </variable>
+</TestCaseEntity>

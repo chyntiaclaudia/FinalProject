@@ -19,17 +19,30 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.url)
+WebUI.navigateToUrl('https://advantageonlineshopping.com/')
 
-WebUI.maximizeWindow()
+WebUI.click(findTestObject('Object Repository/sort/Page_Advantage Shopping/div_LAPTOPS                        Shop Now'))
 
-WebUI.click(findTestObject('Object Repository/LoginValidInvalid/Page_Advantage Shopping/a_My account                        My orde_124641'))
+WebUI.click(findTestObject('Object Repository/sort/Page_Advantage Shopping/h4_DISPLAY'))
 
-WebUI.setText(findTestObject('Object Repository/LoginValidInvalid/Page_Advantage Shopping/input_OR_username'), username)
+def processor = ['Z3795', 'Z8500', '5300'] 
 
-WebUI.setText(findTestObject('Object Repository/LoginValidInvalid/Page_Advantage Shopping/input_Username_password'), password)
-
-WebUI.click(findTestObject('Object Repository/LoginValidInvalid/Page_Advantage Shopping/button_SIGN IN'))
+switch (processor) {
+	case processor = 'Z3795':
+		WebUI.click(findTestObject('Object Repository/sort/Page_Advantage Shopping/tablet1'))
+		break
+	case processor = 'Z8500':
+		WebUI.click(findTestObject('Object Repository/sort/Page_Advantage Shopping/tablet2'))
+		break
+	case processor = '5300':
+		WebUI.click(findTestObject('Object Repository/sort/Page_Advantage Shopping/tablet3'))
+		break
+	default:
+		WebUI.click(findTestObject())
+		break
+ }
+ 
+ WebUI.delay(5)
 
 WebUI.closeBrowser()
 

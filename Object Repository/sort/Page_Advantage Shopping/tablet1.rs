@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tablet1</name>
+   <tag></tag>
+   <elementGuidId>035b3da6-8e6c-46ea-8772-8236ca1e3eba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mobileSlide']/ul/li[3]/div/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>fcef9dc3-cd27-4b6d-b0d9-f7e93d88c55c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>processor_0</value>
+      <webElementGuid>0557d7f6-c779-4c62-9ec0-162db8efc085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roboto-regular ng-binding</value>
+      <webElementGuid>8f7c9be0-2081-4579-ae1f-56710fdfac5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-click</name>
+      <type>Main</type>
+      <value>item.selected = !item.selected; includeProducts(attrVal, attrib.name)</value>
+      <webElementGuid>ecded3b5-15dc-45da-a12e-f64b881675a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Intel® Atom® Z3795 (1.6 GHz, up to 2.39 GHz using Intel Burst Technology, 2 MB cache, 4 cores)</value>
+      <webElementGuid>1ea1f6fa-1603-41e8-82fd-279f12431358</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mobileSlide&quot;)/ul[1]/li[@class=&quot;ng-scope&quot;]/div[@class=&quot;option&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;fill iconCss&quot;]/label[@class=&quot;roboto-regular ng-binding&quot;]</value>
+      <webElementGuid>4efabb91-73a1-4e99-827a-3aa6fc49e79f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mobileSlide']/ul/li[3]/div/div/div/label</value>
+      <webElementGuid>63f770ec-3d28-490d-9634-ab3ee260a1b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROCESSOR'])[1]/following::label[1]</value>
+      <webElementGuid>f5b64f77-a579-49c0-a03e-add8e541677d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('7.9', '&quot;', ' diagonal FHD multi-touch display with Corning® Gorilla® Glass® (2048 x 1536)')])[1]/following::label[1]</value>
+      <webElementGuid>94ccbfe1-464c-4a85-a6d4-f10d508e16ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COLOR'])[1]/preceding::label[3]</value>
+      <webElementGuid>f4d86733-8ea9-496c-9e7e-328c06eb3ffd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOLD OUT'])[1]/preceding::label[3]</value>
+      <webElementGuid>ae387bb6-fd23-4d73-9714-783315b99f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Intel® Atom® Z3795 (1.6 GHz, up to 2.39 GHz using Intel Burst Technology, 2 MB cache, 4 cores)']/parent::*</value>
+      <webElementGuid>e44740b9-ffea-44eb-b258-fb2e034c0f3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div/div/label</value>
+      <webElementGuid>12258859-8382-43b7-8919-e2b458e261a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Intel® Atom® Z3795 (1.6 GHz, up to 2.39 GHz using Intel Burst Technology, 2 MB cache, 4 cores)' or . = 'Intel® Atom® Z3795 (1.6 GHz, up to 2.39 GHz using Intel Burst Technology, 2 MB cache, 4 cores)')]</value>
+      <webElementGuid>2a6b0799-c561-4dce-9a9e-ca636afd2124</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

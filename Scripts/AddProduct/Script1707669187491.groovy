@@ -19,7 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://advantageonlineshopping.com/#/search')
+WebUI.navigateToUrl(GlobalVariable.url)
+
+WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Object Repository/Page_Advantage Shopping/svg_CHECKOUT  (0.00)_menuUser'))
 
