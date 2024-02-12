@@ -31,5 +31,12 @@ WebUI.setText(findTestObject('Object Repository/LoginValidInvalid/Page_Advantage
 
 WebUI.click(findTestObject('Object Repository/LoginValidInvalid/Page_Advantage Shopping/button_SIGN IN'))
 
+boolean isElementPresent = WebUI.verifyElementPresent(findTestObject('Object Repository/Login/Page_Advantage Shopping/span_cintilu.cu'), 10)
+if (isElementPresent) {
+	println("cintilu.cu")
+} else {
+	println("Login gagal. Elemen tidak ditemukan.")
+}
+
 WebUI.closeBrowser()
 

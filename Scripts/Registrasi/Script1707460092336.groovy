@@ -19,52 +19,64 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.url)
+WebUI.navigateToUrl('https://advantageonlineshopping.com/')
 
-WebUI.maximizeWindow()
-
-WebUI.click(findTestObject('Object Repository/Register/Page_Advantage Shopping/path_CHECKOUT  (0.00)_menuUserSVGPath'))
+WebUI.click(findTestObject('Object Repository/Register/Page_Advantage Shopping/svg_CHECKOUT  (0.00)_menuUser'))
 
 WebUI.click(findTestObject('Object Repository/Register/Page_Advantage Shopping/a_CREATE NEW ACCOUNT'))
 
-WebUI.setText(findTestObject('Object Repository/Register/Page_Advantage Shopping/input__usernameRegisterPage'), 'cintilucu')
+WebUI.setText(findTestObject('Object Repository/Register/Page_Advantage Shopping/input__usernameRegisterPage'), 'cicicaca')
 
-WebUI.setText(findTestObject('Object Repository/Register/Page_Advantage Shopping/input__emailRegisterPage'), 'cici@gmail.com')
+WebUI.click(findTestObject('Object Repository/Register/Page_Advantage Shopping/label_Email'))
+
+WebUI.setText(findTestObject('Object Repository/Register/Page_Advantage Shopping/input__emailRegisterPage'), 'cicici@gmail.com')
+
+WebUI.click(findTestObject('Object Repository/Register/Page_Advantage Shopping/label_Password'))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Register/Page_Advantage Shopping/input__passwordRegisterPage'), 
-    'WoESHQlZqz2JwR7VDauQsA==')
+    'JF0lU91WphA42I2PstvcPg==')
+
+WebUI.click(findTestObject('Object Repository/Register/Page_Advantage Shopping/label_Confirm password'))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Register/Page_Advantage Shopping/input__confirm_passwordRegisterPage'), 
-    'WoESHQlZqz2JwR7VDauQsA==')
+    'JF0lU91WphA42I2PstvcPg==')
+
+WebUI.click(findTestObject('Object Repository/Register/Page_Advantage Shopping/label_First Name'))
 
 WebUI.setText(findTestObject('Object Repository/Register/Page_Advantage Shopping/input_PERSONAL DETAILS_first_nameRegisterPage'), 
     'cici')
 
+WebUI.click(findTestObject('Object Repository/Register/Page_Advantage Shopping/label_Last Name'))
+
 WebUI.setText(findTestObject('Object Repository/Register/Page_Advantage Shopping/input_- Use maximum 30 character_last_nameR_6ef033'), 
     'caca')
+
+WebUI.click(findTestObject('Object Repository/Register/Page_Advantage Shopping/label_Phone Number'))
 
 WebUI.setText(findTestObject('Object Repository/Register/Page_Advantage Shopping/input_- Use maximum 30 character_phone_numb_7c938a'), 
     '081234567890')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Register/Page_Advantage Shopping/select_AfganistanAlbaniaAlgeriaAmerican Sam_3cef8a'), 
-    'object:250', true)
+    'object:168', true)
+
+WebUI.click(findTestObject('Object Repository/Register/Page_Advantage Shopping/label_City'))
 
 WebUI.setText(findTestObject('Object Repository/Register/Page_Advantage Shopping/input_Country_cityRegisterPage'), 'Jakarta')
 
+WebUI.click(findTestObject('Object Repository/Register/Page_Advantage Shopping/label_Address'))
+
 WebUI.setText(findTestObject('Object Repository/Register/Page_Advantage Shopping/input_- Use maximum 25 character_addressReg_9e23b3'), 
-    'Kemayoran')
+    'Cempaka Putih')
+
+WebUI.click(findTestObject('Object Repository/Register/Page_Advantage Shopping/label_State  Province  Region'))
 
 WebUI.setText(findTestObject('Object Repository/Register/Page_Advantage Shopping/input_- Use maximum 50 character_state__pro_272a54'), 
     'Jakarta')
 
 WebUI.setText(findTestObject('Object Repository/Register/Page_Advantage Shopping/input_- Use maximum 10 character_postal_cod_639c2f'), 
-    '000000')
+    '01234')
 
 WebUI.click(findTestObject('Object Repository/Register/Page_Advantage Shopping/input_Receive exclusive offers and promotio_5c7450'))
-
-WebUI.click(findTestObject('Object Repository/Register/Page_Advantage Shopping/button_REGISTER'))
-
-WebUI.setText(findTestObject('Object Repository/Register/Page_Advantage Shopping/input__usernameRegisterPage'), 'cintilu.cu')
 
 WebUI.click(findTestObject('Object Repository/Register/Page_Advantage Shopping/button_REGISTER'))
 

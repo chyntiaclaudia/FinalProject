@@ -6,12 +6,12 @@
    <elementGuidId>18ab546f-e064-44bc-a082-370d1ff40d12</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;postal_codeRegisterPage&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@name='postal_codeRegisterPage']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;postal_codeRegisterPage&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d30ba049-593c-4325-aa16-71cddfda4381</webElementGuid>
+      <webElementGuid>3a801339-5fb9-4469-929f-235d36aa909b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>postal_codeRegisterPage</value>
-      <webElementGuid>3649c0a3-e3a6-4ec5-bc81-6fb1c4d38ceb</webElementGuid>
+      <webElementGuid>9cdf1cc0-0c70-4631-8cc6-1e649461208c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>98b94d87-fc54-45c6-82d8-26f283ae831a</webElementGuid>
+      <webElementGuid>5dd608c9-1800-4d7f-b155-ec70bcf705d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>data-ng-model</name>
       <type>Main</type>
       <value>secModel</value>
-      <webElementGuid>f40c6e98-c2a7-474d-82db-14a4b8f591c6</webElementGuid>
+      <webElementGuid>4ce8044a-1a28-4b90-900b-2e343af1194b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ng-pristine ng-untouched ng-valid ng-scope in-focus ng-dirty-add ng-valid-parse-add ng-animate ng-pristine-remove</value>
-      <webElementGuid>64b61fa2-a3f0-477f-ad9c-93208c5be5a2</webElementGuid>
+      <value>ng-pristine ng-untouched ng-valid ng-scope</value>
+      <webElementGuid>90e1e4cb-6304-41d3-ad0d-c4de862417e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,8 +69,8 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;formCover&quot;)/div[3]/div[@class=&quot;spliter&quot;]/sec-view[@class=&quot;ng-isolate-scope sec-view&quot;]/div[@class=&quot;inputContainer ng-scope&quot;]/input[@class=&quot;ng-pristine ng-untouched ng-valid ng-scope in-focus ng-dirty-add ng-valid-parse-add ng-animate ng-pristine-remove&quot;]</value>
-      <webElementGuid>3796bc1e-4d91-4d52-bd48-3f73e299d738</webElementGuid>
+      <value>id(&quot;formCover&quot;)/div[3]/div[@class=&quot;spliter&quot;]/sec-view[@class=&quot;ng-isolate-scope sec-view&quot;]/div[@class=&quot;inputContainer ng-scope&quot;]/input[@class=&quot;ng-pristine ng-untouched ng-valid ng-scope&quot;]</value>
+      <webElementGuid>e2475bac-5876-4dff-8b97-b0999cd20e13</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='postal_codeRegisterPage']</value>
-      <webElementGuid>18044de0-e1b6-4803-aafa-cc1b30e4736f</webElementGuid>
+      <webElementGuid>2b798140-efe8-421d-993c-2ab460ad4423</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='formCover']/div[3]/div[3]/sec-view/div/input</value>
-      <webElementGuid>375d8715-991f-40e7-8cf8-427fff12ad05</webElementGuid>
+      <webElementGuid>fb2db075-b77c-406b-b7ca-3161159161c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/sec-view/div/input</value>
-      <webElementGuid>b347fe56-0a8f-4ef8-86d5-d0ade4365082</webElementGuid>
+      <webElementGuid>d3123906-aac7-4ef7-a723-299f97465db9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'postal_codeRegisterPage' and @type = 'text']</value>
-      <webElementGuid>e301be49-4378-47f4-89e6-edc53448cd9b</webElementGuid>
+      <webElementGuid>e8e58926-59b0-452e-b135-5a843619dc21</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

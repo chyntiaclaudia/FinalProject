@@ -19,13 +19,6 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>4ed5560c-92ee-4cf5-8293-6a8c3c38000b</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/AddProduct</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>7ae47b34-95a4-42f9-bc5f-3578bea1766c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -46,5 +39,12 @@
          <value>processor</value>
          <variableId>efbf3872-1fd7-40f2-abb7-99c1d9f6bc60</variableId>
       </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>06426bb9-cba8-42b1-8149-30117fdcfafc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Checkout</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

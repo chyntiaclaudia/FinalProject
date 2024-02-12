@@ -6,12 +6,12 @@
    <elementGuidId>9db4d6df-be58-4abb-be22-da0c63f14b19</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>select[name=&quot;countryListboxRegisterPage&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@name='countryListboxRegisterPage']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;countryListboxRegisterPage&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>a5783280-4787-439f-a3a5-e998c8f8926c</webElementGuid>
+      <webElementGuid>f8561f97-8c63-45ab-aed1-d7cd0ba5bb9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>countryListboxRegisterPage</value>
-      <webElementGuid>5d9681a7-84d3-417e-aeb0-145d72e1402d</webElementGuid>
+      <webElementGuid>51d8ec32-19c6-4da0-b4fd-b0cb27a35acf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>listbox</value>
-      <webElementGuid>ac203009-504a-4c81-90f8-a5c81c60af50</webElementGuid>
+      <webElementGuid>4ec271b9-0218-4526-812d-5727aa65a705</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>ng-model</name>
       <type>Main</type>
       <value>secModel</value>
-      <webElementGuid>2394ab60-2cf4-4ff8-90d0-a3627f481bc3</webElementGuid>
+      <webElementGuid>1095d7f7-3b33-4e81-9dc3-a4c0281c3e25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>ng-options</name>
       <type>Main</type>
       <value>c as c.name for c in secSelectOptions</value>
-      <webElementGuid>2967b3b0-583f-453e-8cd8-7c51ec541be3</webElementGuid>
+      <webElementGuid>9e9e4f4d-c1a1-4bb9-a21f-1bbd617611aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-pristine ng-untouched ng-valid ng-scope in-focus</value>
-      <webElementGuid>9eb54015-3c43-4f57-bcfc-56ba488f90dc</webElementGuid>
+      <webElementGuid>e7f0b4cd-d079-4ae4-bdd4-63c745d87cc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>AfganistanAlbaniaAlgeriaAmerican SamoaAndoraAngolaAnguillaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBonaireBosnia and HerzegovinaBotswanaBrazilBruneiBulgariaBurkina FasoBurundi CambodiaCameroonCanadaCanary IslandsCape Verde aranelleCayman IslandsCentral African RepublicChadChileChinaColombiaComoro IslandsCongoCook IslandsCosta RicaCroatiaCubaCyprusCzech RepublicDemocratic Republic of CongoDenmarkDjiboutiDominicaDominican RepublicDutch (Netherlands)); AntillesEast TimorEcuadorEgyptEl SalvadorEnglandEquatorial GuineaEritrea EstoniaEthiopiaFalkland IslandsFijiFinlandFranceFrench GuyanaFrench PolynesiaGabonaiseGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea BissauGuyanaHaitiHawaiHeard IslandHondurasHong KongHungaryIcelandIndiaIndonesiaIranIraqIrelandIsle of ManIsraelItalyIvory CostJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKosovoKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacauMacedoniaMacquarie IslandMadagascarMalawiMalaysiamaldives IslandsMaliMaltaMaroccoMarshal IslandsMartinique MauritaniaMauritiusMayotteMexicoMicronesiaMidway AtolMoldovaMonacoMongoliaMontenegroMontserratMozambiqueMyanmar (Burma));NamibiaNauruNepalNetherlandNew CaledoniaNew ZealandNicaraguaNigerNigeriaNorfolk IslandsNorth KoreaNorthen IrelandNorwayOmanPakistanPalauPalestinian AuthorityPanamaParaguayPeruPhilippinesPolandPortugalPuerto RicoPuerto RicoQatarReunionRomaniaRussiaRwandaSaint Helena IslandSaint Kitts and NevisSaint Vincent and the GrenadinesSamoaSan MarinoSao TomeSaudi ArabiaScotland SenegalSerbiaSeychelles IslandsSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth GeorgiaSouth KoreaSouth SudanSpainSri LankaSt. LuciaSudanSurinamSwazilandSwedenSwitzerlandSyriaTadzhikistanTaiwanTanzaniaThailandTogo (Togolese));TokelauTongaTrinidad and TobagoTunisiaTurkeyTurkmenistan Turks and Caicos IslandsUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayUzbekistanVanuatuVaticanVaticanVenezuelaVietnamVirgin Islands (UK));Virgin Islands (USA));WalesWallis and Futuna IslandsYemenZambiaZanzibar Zimbabwe </value>
-      <webElementGuid>81ccbde8-30b1-409d-b4c6-ad4898ed6e24</webElementGuid>
+      <webElementGuid>f490a467-b277-41d1-9610-b66dd42858f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;formCover&quot;)/div[3]/div[@class=&quot;spliter&quot;]/sec-view[@class=&quot;ng-isolate-scope sec-view&quot;]/div[@class=&quot;inputContainer ng-scope&quot;]/select[@class=&quot;ng-pristine ng-untouched ng-valid ng-scope in-focus&quot;]</value>
-      <webElementGuid>bfab75d1-7a6f-4961-b677-dc74c057d8ba</webElementGuid>
+      <webElementGuid>8f2b5d24-2693-48fd-af0c-6f9fbf768bfc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@name='countryListboxRegisterPage']</value>
-      <webElementGuid>4bf0e453-8834-4f41-8c29-23a0cbb3950f</webElementGuid>
+      <webElementGuid>eeec11dc-0af5-4d02-8cd2-1c1f25750a47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='formCover']/div[3]/div/sec-view/div/select</value>
-      <webElementGuid>f79d564a-7b06-4205-a31c-402834f885ec</webElementGuid>
+      <webElementGuid>e798372e-8795-4c82-8263-ac6254a97185</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ADDRESS'])[1]/following::select[1]</value>
-      <webElementGuid>0307be7d-22bc-4c9a-b746-5d13214d892d</webElementGuid>
+      <webElementGuid>f558dd6d-2b75-4e36-a4f2-4b1a8006c463</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='- Use maximum 20 character'])[1]/following::select[1]</value>
-      <webElementGuid>d5368baf-b087-4a47-bf23-e74b6fa4adc8</webElementGuid>
+      <webElementGuid>ac384f94-ba0b-4e71-af0d-f8857147fb63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[2]/preceding::select[1]</value>
-      <webElementGuid>e9be921f-372d-4d10-8f35-6d7b1e502fd3</webElementGuid>
+      <webElementGuid>5268a767-1ca8-4989-a1f0-9255b2655a35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='City'])[2]/preceding::select[1]</value>
-      <webElementGuid>5368c661-7676-4375-b8d0-cf70335cfa2b</webElementGuid>
+      <webElementGuid>035b8c66-0978-486b-8731-a1b307d51e3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>9e4e8483-1448-4dd3-b3d3-f5b1f8978f6c</webElementGuid>
+      <webElementGuid>4419cac2-c276-4410-a51e-0632c060c475</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@name = 'countryListboxRegisterPage' and (text() = 'AfganistanAlbaniaAlgeriaAmerican SamoaAndoraAngolaAnguillaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBonaireBosnia and HerzegovinaBotswanaBrazilBruneiBulgariaBurkina FasoBurundi CambodiaCameroonCanadaCanary IslandsCape Verde aranelleCayman IslandsCentral African RepublicChadChileChinaColombiaComoro IslandsCongoCook IslandsCosta RicaCroatiaCubaCyprusCzech RepublicDemocratic Republic of CongoDenmarkDjiboutiDominicaDominican RepublicDutch (Netherlands)); AntillesEast TimorEcuadorEgyptEl SalvadorEnglandEquatorial GuineaEritrea EstoniaEthiopiaFalkland IslandsFijiFinlandFranceFrench GuyanaFrench PolynesiaGabonaiseGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea BissauGuyanaHaitiHawaiHeard IslandHondurasHong KongHungaryIcelandIndiaIndonesiaIranIraqIrelandIsle of ManIsraelItalyIvory CostJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKosovoKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacauMacedoniaMacquarie IslandMadagascarMalawiMalaysiamaldives IslandsMaliMaltaMaroccoMarshal IslandsMartinique MauritaniaMauritiusMayotteMexicoMicronesiaMidway AtolMoldovaMonacoMongoliaMontenegroMontserratMozambiqueMyanmar (Burma));NamibiaNauruNepalNetherlandNew CaledoniaNew ZealandNicaraguaNigerNigeriaNorfolk IslandsNorth KoreaNorthen IrelandNorwayOmanPakistanPalauPalestinian AuthorityPanamaParaguayPeruPhilippinesPolandPortugalPuerto RicoPuerto RicoQatarReunionRomaniaRussiaRwandaSaint Helena IslandSaint Kitts and NevisSaint Vincent and the GrenadinesSamoaSan MarinoSao TomeSaudi ArabiaScotland SenegalSerbiaSeychelles IslandsSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth GeorgiaSouth KoreaSouth SudanSpainSri LankaSt. LuciaSudanSurinamSwazilandSwedenSwitzerlandSyriaTadzhikistanTaiwanTanzaniaThailandTogo (Togolese));TokelauTongaTrinidad and TobagoTunisiaTurkeyTurkmenistan Turks and Caicos IslandsUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayUzbekistanVanuatuVaticanVaticanVenezuelaVietnamVirgin Islands (UK));Virgin Islands (USA));WalesWallis and Futuna IslandsYemenZambiaZanzibar Zimbabwe ' or . = 'AfganistanAlbaniaAlgeriaAmerican SamoaAndoraAngolaAnguillaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBonaireBosnia and HerzegovinaBotswanaBrazilBruneiBulgariaBurkina FasoBurundi CambodiaCameroonCanadaCanary IslandsCape Verde aranelleCayman IslandsCentral African RepublicChadChileChinaColombiaComoro IslandsCongoCook IslandsCosta RicaCroatiaCubaCyprusCzech RepublicDemocratic Republic of CongoDenmarkDjiboutiDominicaDominican RepublicDutch (Netherlands)); AntillesEast TimorEcuadorEgyptEl SalvadorEnglandEquatorial GuineaEritrea EstoniaEthiopiaFalkland IslandsFijiFinlandFranceFrench GuyanaFrench PolynesiaGabonaiseGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea BissauGuyanaHaitiHawaiHeard IslandHondurasHong KongHungaryIcelandIndiaIndonesiaIranIraqIrelandIsle of ManIsraelItalyIvory CostJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKosovoKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacauMacedoniaMacquarie IslandMadagascarMalawiMalaysiamaldives IslandsMaliMaltaMaroccoMarshal IslandsMartinique MauritaniaMauritiusMayotteMexicoMicronesiaMidway AtolMoldovaMonacoMongoliaMontenegroMontserratMozambiqueMyanmar (Burma));NamibiaNauruNepalNetherlandNew CaledoniaNew ZealandNicaraguaNigerNigeriaNorfolk IslandsNorth KoreaNorthen IrelandNorwayOmanPakistanPalauPalestinian AuthorityPanamaParaguayPeruPhilippinesPolandPortugalPuerto RicoPuerto RicoQatarReunionRomaniaRussiaRwandaSaint Helena IslandSaint Kitts and NevisSaint Vincent and the GrenadinesSamoaSan MarinoSao TomeSaudi ArabiaScotland SenegalSerbiaSeychelles IslandsSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth GeorgiaSouth KoreaSouth SudanSpainSri LankaSt. LuciaSudanSurinamSwazilandSwedenSwitzerlandSyriaTadzhikistanTaiwanTanzaniaThailandTogo (Togolese));TokelauTongaTrinidad and TobagoTunisiaTurkeyTurkmenistan Turks and Caicos IslandsUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayUzbekistanVanuatuVaticanVaticanVenezuelaVietnamVirgin Islands (UK));Virgin Islands (USA));WalesWallis and Futuna IslandsYemenZambiaZanzibar Zimbabwe ')]</value>
-      <webElementGuid>4e8eba9f-772a-49e6-b5fc-f52055e2d999</webElementGuid>
+      <webElementGuid>f3d1c6cd-93d9-4cba-918e-5a0fc67e3f80</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

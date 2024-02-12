@@ -6,12 +6,12 @@
    <elementGuidId>ad13c1e8-9a7b-42e0-8feb-71a102568378</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;state_/_province_/_regionRegisterPage&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@name='state_/_province_/_regionRegisterPage']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;state_/_province_/_regionRegisterPage&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0e89030f-fc4b-4867-b37a-59458ce101b5</webElementGuid>
+      <webElementGuid>c8038342-ec95-49b9-9bd7-1d0f4a551ab2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>state_/_province_/_regionRegisterPage</value>
-      <webElementGuid>b73b3776-839a-4d99-9db5-ef4230ab9cf4</webElementGuid>
+      <webElementGuid>b57a127c-43f1-4439-a133-f935b0a079de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>f0a5bcc8-fe1b-49c4-9aed-fd5a8828e29d</webElementGuid>
+      <webElementGuid>96c2019c-e578-4440-a939-4a0c1c079780</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-ng-model</name>
       <type>Main</type>
       <value>secModel</value>
-      <webElementGuid>e9e98928-fb03-4736-9c4a-5d4a64a582c3</webElementGuid>
+      <webElementGuid>0ca5f5c4-a738-455d-9e91-b911d6d0b46a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-pristine ng-untouched ng-valid ng-scope in-focus ng-dirty-add ng-valid-parse-add ng-animate ng-pristine-remove</value>
-      <webElementGuid>224a84af-4d04-41d2-a971-ae9d80f2e8ac</webElementGuid>
+      <webElementGuid>3670e350-47f4-4ca4-bcc9-e8cfc7a4d39a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-ng-animate</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>51c36975-9d04-46cf-99c3-86f4a2a44a7d</webElementGuid>
+      <webElementGuid>2a1fdc5f-2deb-4685-844e-c0a30522d4e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;formCover&quot;)/div[3]/div[@class=&quot;spliter&quot;]/sec-view[@class=&quot;ng-isolate-scope sec-view&quot;]/div[@class=&quot;inputContainer ng-scope&quot;]/input[@class=&quot;ng-pristine ng-untouched ng-valid ng-scope in-focus ng-dirty-add ng-valid-parse-add ng-animate ng-pristine-remove&quot;]</value>
-      <webElementGuid>e0ea6176-35e1-4fb9-85ee-7177823ddf57</webElementGuid>
+      <webElementGuid>11f97988-d743-4f3d-b6ff-cad1c77f826f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='state_/_province_/_regionRegisterPage']</value>
-      <webElementGuid>400f5dc5-5178-4395-9708-2d077ac90d34</webElementGuid>
+      <webElementGuid>5981a132-c0a4-481e-bd3d-cd49592b4c44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='formCover']/div[3]/div[2]/sec-view[2]/div/input</value>
-      <webElementGuid>8477c2d0-cc2d-4a4e-b73c-a7f80afbf78a</webElementGuid>
+      <webElementGuid>5cdf99e1-06e4-48a6-9b31-1ee9366a842a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/sec-view[2]/div/input</value>
-      <webElementGuid>e368434d-172d-4074-8155-f1a2db0a1e14</webElementGuid>
+      <webElementGuid>35ec3d20-ee26-42e4-9dde-69630ccf9e38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'state_/_province_/_regionRegisterPage' and @type = 'text']</value>
-      <webElementGuid>e6b91895-39c5-4873-90d2-0975f796859b</webElementGuid>
+      <webElementGuid>946459c1-033b-4543-8c71-f9da71e52df4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

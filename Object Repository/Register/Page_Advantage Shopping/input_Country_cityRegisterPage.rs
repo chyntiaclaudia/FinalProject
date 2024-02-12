@@ -6,12 +6,12 @@
    <elementGuidId>21bb6ce7-86ea-41cf-b966-00fa00b76c98</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;cityRegisterPage&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@name='cityRegisterPage']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;cityRegisterPage&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1597c97d-e475-4008-81e2-5ac149a536a4</webElementGuid>
+      <webElementGuid>f63f5c87-4b32-4ec6-ba0c-2c6e70a80d4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>cityRegisterPage</value>
-      <webElementGuid>86abb4ca-02fc-4157-9703-b206a77c4bb4</webElementGuid>
+      <webElementGuid>7d9d27df-c748-4080-aae4-802e33f70e65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>9396119e-c19b-4c7d-9cd8-b7b5b3797aba</webElementGuid>
+      <webElementGuid>ded64c16-796c-44e3-9271-4e4806d1d43a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,23 +46,31 @@
       <name>data-ng-model</name>
       <type>Main</type>
       <value>secModel</value>
-      <webElementGuid>01abddc9-3ccb-4032-846e-7bf1baae221d</webElementGuid>
+      <webElementGuid>b814a68c-aac3-40e9-8c1a-ec88725ba9e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ng-pristine ng-untouched ng-valid ng-scope in-focus</value>
-      <webElementGuid>0280860e-0f82-4218-9a41-a5fc35e2b5a6</webElementGuid>
+      <value>ng-pristine ng-untouched ng-valid ng-scope in-focus ng-dirty-add ng-valid-parse-add ng-animate ng-pristine-remove</value>
+      <webElementGuid>909bbbc6-fe26-4a82-880f-5f20a7e201a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;formCover&quot;)/div[3]/div[@class=&quot;spliter&quot;]/sec-view[@class=&quot;ng-isolate-scope sec-view&quot;]/div[@class=&quot;inputContainer ng-scope&quot;]/input[@class=&quot;ng-pristine ng-untouched ng-valid ng-scope in-focus&quot;]</value>
-      <webElementGuid>fddbcfd4-6ead-4c50-a49a-cf76c8c546eb</webElementGuid>
+      <value>id(&quot;formCover&quot;)/div[3]/div[@class=&quot;spliter&quot;]/sec-view[@class=&quot;ng-isolate-scope sec-view&quot;]/div[@class=&quot;inputContainer ng-scope&quot;]/input[@class=&quot;ng-pristine ng-untouched ng-valid ng-scope in-focus ng-dirty-add ng-valid-parse-add ng-animate ng-pristine-remove&quot;]</value>
+      <webElementGuid>1b574e19-44a3-480c-82e1-f4c57b095cff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-animate</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>8349ea23-7f72-49af-85f4-6dad5dc4a441</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='cityRegisterPage']</value>
-      <webElementGuid>9365112d-ebd6-4408-ae18-bc1f8dd45db3</webElementGuid>
+      <webElementGuid>a72fcb53-8d49-4bbd-9bc6-826ea703dd51</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='formCover']/div[3]/div/sec-view[2]/div/input</value>
-      <webElementGuid>4e99e223-d1db-4d7e-a1c9-2221ecb22058</webElementGuid>
+      <webElementGuid>d7e748a1-1bd2-46bf-b281-75d129406f4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/sec-view[2]/div/input</value>
-      <webElementGuid>d2ab603b-177d-44e3-9680-b571fac49094</webElementGuid>
+      <webElementGuid>e81a927c-b2aa-4f89-bd67-1462bea3c161</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'cityRegisterPage' and @type = 'text']</value>
-      <webElementGuid>b220b75c-e961-4a64-a823-1178eba4a978</webElementGuid>
+      <webElementGuid>ae509fac-38ad-4a51-aaad-f71a3a1bc1c6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

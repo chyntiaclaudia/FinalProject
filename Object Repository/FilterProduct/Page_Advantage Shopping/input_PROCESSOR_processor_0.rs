@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__usernameRegisterPage</name>
+   <name>input_PROCESSOR_processor_0</name>
    <tag></tag>
-   <elementGuidId>d5085385-b051-47d6-8d17-9ebd8732bc82</elementGuidId>
+   <elementGuidId>feba2af4-c258-44d8-bbd5-965d5beaf7b1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='usernameRegisterPage']</value>
+         <value>//input[@id='processor_0']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;usernameRegisterPage&quot;]</value>
+         <value>#processor_0</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,78 +22,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>79c74d9b-b724-4896-8720-4c126436d373</webElementGuid>
+      <webElementGuid>510c5473-8715-4710-976c-2da35b306960</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>usernameRegisterPage</value>
-      <webElementGuid>9bf23b1e-22d8-422c-b58c-b450ae89283c</webElementGuid>
+      <value>processor_0</value>
+      <webElementGuid>ff43f7b0-ebc2-49ca-bb21-af9ef74526b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>879b766d-3c66-4aa0-bc09-f157af4140e4</webElementGuid>
+      <value>checkbox</value>
+      <webElementGuid>34317aa2-a593-464b-92ad-5d66de4f4103</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-ng-model</name>
+      <name>ng-model</name>
       <type>Main</type>
-      <value>secModel</value>
-      <webElementGuid>5e3f8bf6-fd37-427f-b07b-b36480943c81</webElementGuid>
+      <value>item.selected</value>
+      <webElementGuid>6b27e59d-35e6-4b36-8e9f-d0cf2acacc61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>includeProducts(attrVal, attrib.name)</value>
+      <webElementGuid>149a0737-ddba-49a5-830b-40573b341517</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>processor_0</value>
+      <webElementGuid>3613b853-e18c-4d9e-906a-440e87288f17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ng-pristine ng-untouched ng-valid ng-scope in-focus</value>
-      <webElementGuid>c467ab4b-6227-4847-940f-313c5643cb94</webElementGuid>
+      <value>ng-pristine ng-untouched ng-valid</value>
+      <webElementGuid>fb9e904e-4d42-4181-9478-576f6b005a5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;formCover&quot;)/div[1]/div[@class=&quot;spliter&quot;]/sec-view[@class=&quot;ng-isolate-scope sec-view&quot;]/div[@class=&quot;inputContainer ng-scope&quot;]/input[@class=&quot;ng-pristine ng-untouched ng-valid ng-scope in-focus&quot;]</value>
-      <webElementGuid>89aa2509-97ee-43c4-89d5-c06b5513c8b8</webElementGuid>
+      <value>id(&quot;processor_0&quot;)</value>
+      <webElementGuid>e973cac1-5baa-474b-9028-f7ab64ee7dd7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='usernameRegisterPage']</value>
-      <webElementGuid>cfd7dc6f-cf93-4f16-a9a3-47df49e5b6bf</webElementGuid>
+      <value>//input[@id='processor_0']</value>
+      <webElementGuid>d6a828e0-5882-433e-8305-dcd02e056ddc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='formCover']/div/div/sec-view/div/input</value>
-      <webElementGuid>c3dd60d5-98ab-463a-9e5b-4b80087ec2db</webElementGuid>
+      <value>//div[@id='mobileSlide']/ul/li[3]/div/div/div/input</value>
+      <webElementGuid>597fbe58-65bd-452f-be73-963f5d5ec97a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/div/sec-view/div/input</value>
-      <webElementGuid>9fceb7d9-a6aa-43fc-a8a0-3ebe2a5e0d0a</webElementGuid>
+      <value>//li[3]/div/div/div/input</value>
+      <webElementGuid>8a6de0fc-8e66-482b-9599-498032e1a2db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@name = 'usernameRegisterPage' and @type = 'text']</value>
-      <webElementGuid>e43443b9-6379-429e-8310-81ecf3d66691</webElementGuid>
+      <value>//input[@name = 'processor_0' and @type = 'checkbox' and @id = 'processor_0']</value>
+      <webElementGuid>a946ac4a-3dc6-4a1a-bd39-33ec63bd9a3d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

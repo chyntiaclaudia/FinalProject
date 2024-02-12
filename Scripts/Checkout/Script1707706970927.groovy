@@ -17,3 +17,41 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+
+WebUI.openBrowser('')
+WebUI.navigateToUrl(GlobalVariable.url)
+
+// Login
+WebUI.click(findTestObject('Object Repository/Checkout/Page_Advantage Shopping/svg_CHECKOUT  (0.00)_menuUser'))
+WebUI.setText(findTestObject('Object Repository/Checkout/Page_Advantage Shopping/input_OR_username'), 'cintilu.cu')
+WebUI.click(findTestObject('Object Repository/Checkout/Page_Advantage Shopping/label_Password'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Checkout/Page_Advantage Shopping/input_Username_password'), 'WoESHQlZqz2JwR7VDauQsA==')
+WebUI.click(findTestObject('Object Repository/Checkout/Page_Advantage Shopping/button_SIGN IN'))
+
+// Add item to cart and checkout process
+WebUI.click(findTestObject('Object Repository/Checkout/Page_Advantage Shopping/div_TABLETS                        Shop Now'))
+WebUI.click(findTestObject('Object Repository/Checkout/Page_Advantage Shopping/img_SHOP NOW_17'))
+WebUI.click(findTestObject('Object Repository/Checkout/Page_Advantage Shopping/button_ADD TO CART'))
+WebUI.click(findTestObject('Object Repository/Checkout/Page_Advantage Shopping/svg_Management Console_menuCart'))
+WebUI.click(findTestObject('Object Repository/Checkout/Page_Advantage Shopping/button_CHECKOUT (1,279.00)'))
+WebUI.click(findTestObject('Object Repository/Checkout/Page_Advantage Shopping/button_NEXT'))
+
+// Payment process with SafePay
+WebUI.click(findTestObject('Object Repository/Checkout/Page_Advantage Shopping/input_Choose payment method below_safepay'))
+WebUI.click(findTestObject('Object Repository/Checkout/Page_Advantage Shopping/label_SafePay username'))
+WebUI.setText(findTestObject('Object Repository/Checkout/Page_Advantage Shopping/input__safepay_username'), 'cintilu.cu')
+WebUI.click(findTestObject('Object Repository/Checkout/Page_Advantage Shopping/label_SafePay password'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Checkout/Page_Advantage Shopping/input__safepay_password'), 'qDCgMxfUeJgx4DLKEFCPZQ==')
+WebUI.click(findTestObject('Object Repository/Checkout/Page_Advantage Shopping/input_- Including at least one number_save_safepay'))
+WebUI.click(findTestObject('Object Repository/Checkout/Page_Advantage Shopping/button_PAY NOW'))
+
+// Verifikasi apakah pembayaran berhasil
+if (WebUI.verifyElementPresent(findTestObject('Object Repository/Checkout/Page_Advantage Shopping/span_Thank you for buying with Advantage'), 10)) {
+	println("Thank you for buying with Advantage")
+} else {
+	println("Pembayaran gagal.")
+}
+
+WebUI.closeBrowser()

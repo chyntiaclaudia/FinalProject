@@ -6,12 +6,12 @@
    <elementGuidId>df1cce1c-1aae-4995-a1c8-3a9d85a76540</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;first_nameRegisterPage&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@name='first_nameRegisterPage']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;first_nameRegisterPage&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>27f4db81-04f8-4789-a435-9e81f853278e</webElementGuid>
+      <webElementGuid>dafc3552-8a9a-4415-bc03-20f30a6548f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>first_nameRegisterPage</value>
-      <webElementGuid>79cbb3e0-31c5-42a5-bced-94c35aa9cd99</webElementGuid>
+      <webElementGuid>6dc0f22f-63ea-49e7-ace9-ac6a1e684108</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>620ce26a-960b-4b59-9262-918da6cd406b</webElementGuid>
+      <webElementGuid>65098dfc-8745-4f78-85ae-fcf31a35cab8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-ng-model</name>
       <type>Main</type>
       <value>secModel</value>
-      <webElementGuid>0e8345c1-1e1d-4932-915a-38e98707651b</webElementGuid>
+      <webElementGuid>ee7c1d51-1f3f-4b7f-ae24-a55e741fa2c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-pristine ng-untouched ng-valid ng-scope in-focus ng-dirty-add ng-valid-parse-add ng-animate ng-pristine-remove</value>
-      <webElementGuid>3356f2d1-9b95-43b8-8c4f-e4a7205406e9</webElementGuid>
+      <webElementGuid>6988f752-9f3b-47e3-8208-99b0041c64dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-ng-animate</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>6186c6a0-4d64-495d-a921-a99a03f3f42d</webElementGuid>
+      <webElementGuid>3f032de4-28d3-46c4-bd8f-cd46250504ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;formCover&quot;)/div[2]/div[@class=&quot;spliter&quot;]/sec-view[@class=&quot;ng-isolate-scope sec-view&quot;]/div[@class=&quot;inputContainer ng-scope&quot;]/input[@class=&quot;ng-pristine ng-untouched ng-valid ng-scope in-focus ng-dirty-add ng-valid-parse-add ng-animate ng-pristine-remove&quot;]</value>
-      <webElementGuid>21e02d4a-fbcc-47bd-9bf7-071a681e0f33</webElementGuid>
+      <webElementGuid>85f4980b-b194-4d3d-b20b-71f000485f02</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='first_nameRegisterPage']</value>
-      <webElementGuid>83b9c13a-b7a7-4693-9e28-59b411134a5f</webElementGuid>
+      <webElementGuid>7bcbd714-086a-4195-b8e8-2d69e6ee7f96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='formCover']/div[2]/div/sec-view/div/input</value>
-      <webElementGuid>441e4d5e-59fa-4286-a3ae-a5b3b073f009</webElementGuid>
+      <webElementGuid>641f5f7a-2744-4cd7-804c-90756d0383d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div/sec-view/div/input</value>
-      <webElementGuid>18c0f439-6d7a-44fb-b351-c9b7fc559830</webElementGuid>
+      <webElementGuid>2c3b795a-75ce-4120-96b8-3a5c6409576c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'first_nameRegisterPage' and @type = 'text']</value>
-      <webElementGuid>328ad64b-0843-4a70-b4ed-0aedd36ff83f</webElementGuid>
+      <webElementGuid>e2541208-632a-4012-b808-201367f8376c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

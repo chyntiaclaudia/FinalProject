@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>No results</name>
+   <name>a_Search result headset</name>
    <tag></tag>
-   <elementGuidId>3ec335c5-21ac-47f3-a5b2-24204845ef48</elementGuidId>
+   <elementGuidId>b682414c-3a16-48cd-9492-35d0f1466e85</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//article[@id='searchPage']/div[3]/div/label/span</value>
+         <value>//article[@id='searchPage']/div[2]/nav/a[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>a.select.ng-binding</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,101 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>259853c8-51d0-436e-abb0-b9335a61148e</webElementGuid>
+      <value>a</value>
+      <webElementGuid>54bdf470-69de-4ce4-b795-ee015b962a46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ng-binding</value>
-      <webElementGuid>494f4475-347a-4269-9358-095f335c654e</webElementGuid>
+      <value>select  ng-binding</value>
+      <webElementGuid>51d38c95-4a8f-4214-b151-6f2a2317b35a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-                     No results for &quot;laptop asus&quot;
-                    </value>
-      <webElementGuid>89d9bcf0-7950-4db4-967b-4596c7ab6220</webElementGuid>
+      <value> Search result: &quot;headset&quot; </value>
+      <webElementGuid>841205b5-1252-4b17-b5e1-54fcf81710b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;searchPage&quot;)/div[@class=&quot;noPromotedProductDiv&quot;]/div[@class=&quot;textAlignCenter ng-scope&quot;]/label[@class=&quot;noProducts roboto-bold&quot;]/span[@class=&quot;ng-binding&quot;]</value>
-      <webElementGuid>ae67656e-ee2a-48cb-a447-e6dd34463e77</webElementGuid>
+      <value>id(&quot;searchPage&quot;)/div[2]/nav[@class=&quot;pages categoryDataFixedNav&quot;]/a[@class=&quot;select  ng-binding&quot;]</value>
+      <webElementGuid>0ef3b135-9ee3-49cd-b993-a9ad0a156dc9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//article[@id='searchPage']/div[3]/div/label/span</value>
-      <webElementGuid>a4c609c0-a415-4c28-b87b-343368b99b40</webElementGuid>
+      <value>//article[@id='searchPage']/div[2]/nav/a[2]</value>
+      <webElementGuid>5f172080-4e25-4809-8ec2-e50bf09387b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Search result: &quot;headset&quot;')]</value>
+      <webElementGuid>ae00ca9f-80f7-4665-b5eb-9bf2156b866a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Search result: ', '&quot;', 'laptop asus', '&quot;', '')])[2]/following::span[1]</value>
-      <webElementGuid>79674f0a-015d-49c7-adb6-b0098440fa03</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HOME'])[1]/following::a[1]</value>
+      <webElementGuid>12639af2-ed04-43e1-961d-53c2c1246616</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Search result: ', '&quot;', 'laptop asus', '&quot;', '')])[1]/following::span[1]</value>
-      <webElementGuid>abb1cb39-d754-405b-9f28-a5a360fd289e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEMO'])[1]/following::a[2]</value>
+      <webElementGuid>e4812465-5476-4fa4-b886-9829233aa683</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='FOLLOW US'])[1]/preceding::span[1]</value>
-      <webElementGuid>f18a992d-0cdd-44bd-bdd1-4a1f8456a25b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Search result: ', '&quot;', 'headset', '&quot;', '')])[2]/preceding::a[1]</value>
+      <webElementGuid>53bb54e3-8dec-450e-a3b4-7d33a2102c49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='© Advantage Inc, 2024. Release 3.2'])[1]/preceding::span[1]</value>
-      <webElementGuid>74444114-87d7-46e8-b26e-7aee21d9b427</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='No results for &quot;laptop asus&quot;']/parent::*</value>
-      <webElementGuid>9bdc3603-52ce-4e90-b882-b3f326e37a98</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Search result: &quot;headset&quot;']/parent::*</value>
+      <webElementGuid>1c481b1e-59c1-481d-844e-61ec25cc135e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/label/span</value>
-      <webElementGuid>5a619113-1c03-44f7-b457-34e15e6557c2</webElementGuid>
+      <value>//nav/a[2]</value>
+      <webElementGuid>618e1cf7-ca33-489b-aa4a-c4cd5d5ac839</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = '
-                     No results for &quot;laptop asus&quot;
-                    ' or . = '
-                     No results for &quot;laptop asus&quot;
-                    ')]</value>
-      <webElementGuid>3683df43-c798-4c3b-a65f-0f04bfcd2f92</webElementGuid>
+      <value>//a[(text() = ' Search result: &quot;headset&quot; ' or . = ' Search result: &quot;headset&quot; ')]</value>
+      <webElementGuid>6f5287b6-10f1-44c0-a889-0f22b1c79500</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

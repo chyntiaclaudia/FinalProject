@@ -6,12 +6,12 @@
    <elementGuidId>047af763-0118-477a-a013-9490a587d67d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;phone_numberRegisterPage&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@name='phone_numberRegisterPage']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;phone_numberRegisterPage&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>522469fa-a2c7-45f6-ad14-be6045419b08</webElementGuid>
+      <webElementGuid>8760d06d-f1c3-4f13-959a-eac537170069</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>phone_numberRegisterPage</value>
-      <webElementGuid>6cb42960-b150-4c63-9cd9-a62d56981b9c</webElementGuid>
+      <webElementGuid>44b28124-d2a3-460e-8bb4-8c00b1099076</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>33b970d5-1cb2-4774-97b8-232ad66079f8</webElementGuid>
+      <webElementGuid>8bba1bb4-40bd-48db-9341-d691621068dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-ng-model</name>
       <type>Main</type>
       <value>secModel</value>
-      <webElementGuid>00ecb881-9f30-45d5-8d4f-a1f069f01a64</webElementGuid>
+      <webElementGuid>c4bc4e2d-c774-4ade-b59a-8033ca60e784</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-pristine ng-untouched ng-valid ng-scope in-focus ng-dirty-add ng-valid-parse-add ng-animate ng-pristine-remove</value>
-      <webElementGuid>42c89e5e-af5c-4f85-8b27-e5fa8d8e5288</webElementGuid>
+      <webElementGuid>67e6ff2b-fa04-423f-be69-ab37178a1d58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-ng-animate</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>bdc755c7-a0e5-434b-a193-7f555101cbd8</webElementGuid>
+      <webElementGuid>0c04769a-ff2e-4398-9f08-9ac6da800f6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;formCover&quot;)/div[2]/div[@class=&quot;spliter&quot;]/sec-view[@class=&quot;ng-isolate-scope sec-view&quot;]/div[@class=&quot;inputContainer ng-scope&quot;]/input[@class=&quot;ng-pristine ng-untouched ng-valid ng-scope in-focus ng-dirty-add ng-valid-parse-add ng-animate ng-pristine-remove&quot;]</value>
-      <webElementGuid>0c120ead-f362-4d0d-9d34-ff048872e0ae</webElementGuid>
+      <webElementGuid>b7baa5a7-5b40-4fef-a1b9-c51ee3e24bdf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='phone_numberRegisterPage']</value>
-      <webElementGuid>dc5bbb33-d18b-4a24-86db-cfc4bab8de47</webElementGuid>
+      <webElementGuid>5b7b0652-fe50-4740-a3eb-5ddcf5700da6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='formCover']/div[2]/div[2]/sec-view/div/input</value>
-      <webElementGuid>c8839792-1fb4-424c-9e3f-03d4314c9eba</webElementGuid>
+      <webElementGuid>ad8dacf9-8988-44e3-bc9b-343c9ac719df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/sec-view/div/input</value>
-      <webElementGuid>cf9c920e-eed3-4fa0-9b9a-3a1df042ef8a</webElementGuid>
+      <webElementGuid>adfaab3d-8fe3-4a35-877b-cf5ec794574c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'phone_numberRegisterPage' and @type = 'text']</value>
-      <webElementGuid>4fcb1fc2-c028-4182-aa01-d1617f109ce4</webElementGuid>
+      <webElementGuid>87c377f9-5b3e-48ae-85a0-33bcf0f6e5ed</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>66792e49-72e5-4317-a1c6-a2f692f83209</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#register_btn</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='register_btn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#register_btn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a25c1607-4a37-4d1c-ae66-5671de4ba45d</webElementGuid>
+      <webElementGuid>9e784088-cf5b-460d-89dc-1f02693c7644</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>register_btn</value>
-      <webElementGuid>5c4519d7-785e-42a9-835e-1f753650f6db</webElementGuid>
+      <webElementGuid>a56c9736-f157-4bcd-a505-91d8062dc82e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1b9e6fac-c102-4818-88cb-3abb09b9a75e</webElementGuid>
+      <webElementGuid>a85d2196-3549-4b72-b3e4-ee9dafa019eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sec-sender-a ng-scope</value>
-      <webElementGuid>ec95ec97-0a11-4c61-bb22-03293474c8ef</webElementGuid>
+      <webElementGuid>39f57c1a-f2c2-4302-b746-b0fe470909f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>76775f01-4907-487e-982e-853320a60c49</webElementGuid>
+      <webElementGuid>3493678b-4780-41a0-8ad5-2d147881745e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-ng-click</name>
       <type>Main</type>
       <value>senderCtrl.send()</value>
-      <webElementGuid>1836b011-d0d9-464f-af43-9c63760d6068</webElementGuid>
+      <webElementGuid>b95061e8-bea8-4996-8056-6534665e5ba0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>REGISTER</value>
-      <webElementGuid>709aa4fa-e040-4238-b7e7-bf93e4155fb1</webElementGuid>
+      <webElementGuid>813a27e1-19de-4f56-8b8a-08c93d4802bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;register_btn&quot;)</value>
-      <webElementGuid>f2eefdc2-ab21-4a6b-abeb-cabe93aa63d3</webElementGuid>
+      <webElementGuid>b980b150-81a9-442c-ad79-ee9c0cfa2c0d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='register_btn']</value>
-      <webElementGuid>21099bf1-c372-4f74-9e72-19aaf537e02b</webElementGuid>
+      <webElementGuid>def1e672-d524-41cb-ac5a-94453a588ea1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='registerPage']/article/sec-form/div[2]/sec-sender/button</value>
-      <webElementGuid>dc01ec96-f6ed-4158-89ea-1f9645c81395</webElementGuid>
+      <webElementGuid>cfe721c7-91d2-4dd7-a06f-90c1e12ade18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='I agree to the www.AdvantageOnlineShopping.com Conditions of Use and Privacy Notice'])[2]/following::button[1]</value>
-      <webElementGuid>15d0688a-ba26-4f78-b4a8-6b4b0e3a7085</webElementGuid>
+      <webElementGuid>ce4c118a-dd5f-4ed4-9ebe-5fbba6122301</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='I agree to the www.AdvantageOnlineShopping.com Conditions of Use and Privacy Notice'])[1]/following::button[1]</value>
-      <webElementGuid>fd3cabdf-fd01-4ff0-a44b-bcfdf9ff51d0</webElementGuid>
+      <webElementGuid>188ebe6b-791e-46c2-8ca5-d343ff52f2b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ALREADY HAVE AN ACCOUNT?'])[1]/preceding::button[1]</value>
-      <webElementGuid>efeb1e76-583a-4fcc-a0b3-d13c89d55e92</webElementGuid>
+      <webElementGuid>fdfe6ef5-db8f-438b-b56a-5b88e3d45b9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hi ,'])[1]/preceding::button[1]</value>
-      <webElementGuid>5eb839a4-02c1-4647-ab8d-4e83883618fd</webElementGuid>
+      <webElementGuid>40aa7162-e81a-49f7-90e6-05ee2fff40f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='REGISTER']/parent::*</value>
-      <webElementGuid>181bb167-7bf0-425d-9f6b-4ae5953bf02c</webElementGuid>
+      <webElementGuid>b74c3c7d-6c75-4fbd-8eff-106112580550</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/sec-sender/button</value>
-      <webElementGuid>debdd678-9368-4302-8aba-78a471f69f71</webElementGuid>
+      <webElementGuid>c4419c76-38d9-4369-84a2-a80590058a4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +150,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'register_btn' and @type = 'button' and (text() = 'REGISTER' or . = 'REGISTER')]</value>
-      <webElementGuid>9f9183a8-2e06-4da7-a608-9fb1ba43e98b</webElementGuid>
+      <webElementGuid>e618312e-0732-4c3f-a23a-6994f8cdb28b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
